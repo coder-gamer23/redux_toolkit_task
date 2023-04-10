@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Table Mate",
+      "description": "Wherever you can see",
+      "price": 500,
+      "image": "https://m.media-amazon.com/images/I/61neETu1DCL._SX569_.jpg",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "product": "Vegetable Chopper",
+      "description": "Fast Cooking, less time to chop your vegetables",
+      "price": 1500,
+      "image": "https://m.media-amazon.com/images/I/71FX-Mm7QtL._SX569_.jpg",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "product": "Pan Set",
+      "description": "Used to both cook and beat",
+      "price": 2859,
+      "image": "https://m.media-amazon.com/images/I/51XYypoxnmL._SX569_.jpg",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "product": "Helmet",
+      "description": "Buy this low rate to avoid traffic penalty",
+      "price": 1200,
+      "image": "https://m.media-amazon.com/images/I/61eEetcCb9L._SX450_.jpg",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "product": "Drill Machine",
+      "description": "Make a Hole in wall, Use this machine to Drill",
+      "price": 2350,
+      "image": "https://m.media-amazon.com/images/I/71VSRq40YYL._SX466_.jpg",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "product": "Wireless Mouse",
+      "description": "Nice and Soft Use to access laptop or computer through wireless",
+      "price": 1200,
+      "image": "https://m.media-amazon.com/images/I/516LU0H963L._SX679_.jpg",
+      "count": 1
+    }
+  ],
+  "checkOut": [
+    
+  ]
+}
